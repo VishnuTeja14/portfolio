@@ -32,7 +32,7 @@ const Hero = () => {
           </p>
           <div className="flex justify-center space-x-6 mb-10">
             <a
-              href="https://www.linkedin.com/in/VishnuTeja"
+              href="https://www.linkedin.com/in/vishnuteja-lingabathini-9b733a251"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn Profile"
